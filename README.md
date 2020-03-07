@@ -1,30 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+POKEMON TRADER
+An app where users can log in, open packs of pokemon cards, offer trades with other users.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-
-pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
-
-spring stop
+This app is built on Ruby on Rails with CSS styling. 
